@@ -1,0 +1,27 @@
+{
+  "name": "wiley-says",
+  "version": "1.0.0",
+  "description": "a cli that tells you things that wiley has said",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirsty-simmonds/wiley-says.git"
+  },
+  "keywords": [
+    "wiley",
+    "cli"
+  ],
+  "bin": {
+    "wiley": "bin.js"
+  },
+  "author": "Kirsty Simmonds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirsty-simmonds/wiley-says/issues"
+  },
+  "homepage": "https://github.com/kirsty-simmonds/wiley-says#readme",
+  "dependencies": {}
+}
