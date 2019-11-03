@@ -33,8 +33,9 @@ const wileyQuotes = [
 	"Thanks for my mum for giving birth to me so I can wile up all these donut mcs",
 	"im not 40 u dusty tramp go tell ya mum i said your house smells of mash potato",
 	"If you a big fellow take care on jet ski’s",
-	"I wish people thought, this guy's been going for years. Let's give him a break"
+	"I wish people thought, this guy's been going for years. Let's give him a break",
+	"Your mum's got athlete's foot"
 ]
 
-const item = wileyQuotes[Math.floor(Math.random()*wileyQuotes.length)];
+const item = wileyQuotes[Math.floor(Math.random() * wileyQuotes.length)];
 console.log(item)
