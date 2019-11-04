@@ -1,7 +1,9 @@
 # wiley-says
 
-download node
+download [node](https://nodejs.org/en/download/)
 
-npm i wiley-says
+run `npm i wiley-says` in your terminal
 
-have fun
+type `wiley` and press enter
+
+have fun!
