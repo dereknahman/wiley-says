@@ -1,6 +1,6 @@
 {
   "name": "wiley-says",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a cli that tells you things that wiley has said",
   "main": "bin.js",
   "scripts": {
